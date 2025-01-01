@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abhay (The God)
+- 👋 Hi, I’m Abhay { Teach by god Shiva }
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning MERN Stack Development
+- 🌱 I’m currently learning MERN Stack Development 
 - 💞️ I’m looking to collaborate on doing some projects together
 - 📫 How to reach me whatsapp 9369665498
 - 😄 Pronouns: Sir
